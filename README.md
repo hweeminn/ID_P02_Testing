@@ -1,2 +1,3 @@
-# ID_P02_Testing
-This is my first repository for ID P02
+# ID_S10223008_Lee Hwee Min_Ass1
+Assignment 1
+
